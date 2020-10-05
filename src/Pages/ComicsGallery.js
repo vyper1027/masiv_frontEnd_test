@@ -11,7 +11,7 @@ import Button from 'react-bootstrap/Button'
 import Card from 'react-bootstrap/Card'
 import './ComicsGallery.scss'
 //import Images
-import woodpecker from '../imgReact/woodpecker.png'
+import bigger_problem from '../imgReact/bigger_problem.png'
 import masks from '../imgReact/masks.png'
 
 class ComicsGallery extends React.Component { 
@@ -43,8 +43,8 @@ class ComicsGallery extends React.Component {
     
     const images = [      
       {
-        original: masks,
-        thumbnail: masks,
+        original: bigger_problem,
+        thumbnail: bigger_problem,
         thumbnailLabel: this.state.comic1.title,
         description: this.state.comic1.title +"-"+this.state.comic1.num,
         originalTitle:this.state.comic1.title,
