@@ -12,7 +12,7 @@ import Card from 'react-bootstrap/Card'
 import './ComicsGallery.scss'
 //import Images
 import bigger_problem from '../imgReact/bigger_problem.png'
-import masks from '../imgReact/masks.png'
+import woodpecker from '../imgReact/woodpecker.png'
 
 class ComicsGallery extends React.Component { 
   constructor(props){
