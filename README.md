@@ -18,7 +18,13 @@ Al correr el proyecto ingresara a una página principal sencilla, en el top men�
 
 
 Se usaron dos imágenes propiedad de masivian, no se intentó ninguna violación de derechos de autor.
+
+Img1
 ([https://www.linkedin.com/company/masivian/?originalSubdomain=gh])
+
+
+Img2
+([https://www.congresoasomicrofinanzas.com/patrocinadores/])
 
 
 
