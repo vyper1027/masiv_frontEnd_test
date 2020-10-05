@@ -2,6 +2,7 @@
 MASIVIAN PRUEBA FRONT-END
 
 Instalación
+
 •	Clone el repositorio o descargue los archivos del master.
 
 •	En una terminal acceda al directorio del repositorio empleando “cd”.
